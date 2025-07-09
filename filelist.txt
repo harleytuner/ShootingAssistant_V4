@@ -1,0 +1,15 @@
+ShootingAssistant_V2.ino
+ui_comp_page4.cpp
+ui_comp.cpp
+ui_Options_Page.cpp
+ui_modern_options.cpp
+ui_modern_theme.cpp
+ui_Bubble_Level_Page.cpp
+ui_Artificial_Horizon_Page.cpp
+ui_Shot_Counter_Page.cpp
+ui_Stage_Timer_Page.cpp
+ui_Competition_Page.cpp
+ui_Settings_Page.cpp
+ui.cpp
+ui_comp_hook.cpp
+ui_helpers.cpp
